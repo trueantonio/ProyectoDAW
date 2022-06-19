@@ -1,6 +1,8 @@
 # ProyectoDAW
 Proyecto final del grado de desarrollo de aplicaciones web.
+
 Título: Discográficas Antonio.
+
 Autor: Antonio Coro Córdoba.
 
 El proyecto consiste en una página web la cual se conecta a una base de datos y nos muestra la información de los diferentes artistas, canciones y álbumes.
